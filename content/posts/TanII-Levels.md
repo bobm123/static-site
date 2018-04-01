@@ -4,7 +4,7 @@ Modified: 2018-03-30 12:40
 Status: published
 Category: Supplies
 Tags: tan-ii, freeflight, blog
-Slug: tanii-levvels
+Slug: tanii-levels
 Authors: Bob Marchese
 Summary: Answer to the question, "What are your Tan 2 Levels?"
 
